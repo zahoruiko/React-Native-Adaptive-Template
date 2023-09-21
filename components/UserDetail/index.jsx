@@ -5,14 +5,8 @@ import { isTablet } from '../../utils/Device';
 import stylesPhone from './stylesPhone';
 import stylesTablet from './stylesTablet';
 
-
 const UserDetail = ({ contact }) => {
-  let styles;
-  if(isTablet()) {
-    styles = stylesTablet;
-  } else {
-    styles = stylesPhone;
-  }
+  const styles = isTablet() ? stylesTablet : stylesPhone;
   return (
     <View style={styles.main}>
       <ScrollView>

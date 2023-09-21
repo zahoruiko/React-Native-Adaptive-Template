@@ -3,7 +3,7 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 # Example of FlatList implementation in React Native
 
 An example of implementing adaptive information display on smartphones and tablets in portrait and landscape orientation modes. 
-
+The following libraries are used in the project: React Native Navigation, React Native Screens, React Native Paper and etc.
 
 # Getting Started
 

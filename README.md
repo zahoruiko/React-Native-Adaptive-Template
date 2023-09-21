@@ -31,3 +31,42 @@ npm start
 # OR using Yarn
 yarn start
 ```
+
+## Results
+
+### Smartphone: Portrait (List)
+
+<img src="https://github.com/zahoruiko/React-Native-Adaptive-Template/blob/main/promoImages/Phone-Portrait-1.png" width="240">
+
+### Smartphone: Portrait (Item details)
+
+<img src="https://github.com/zahoruiko/React-Native-Adaptive-Template/blob/main/promoImages/Phone-Portrait-2.png" width="240">
+
+### Smartphone: Portrait to landscape (Item details)
+
+<img src="https://github.com/zahoruiko/React-Native-Adaptive-Template/blob/main/promoImages/Tablet-Portrait-to-Landscape.png" width="480">
+
+### Smartphone: Landscape (List)
+
+<img src="https://github.com/zahoruiko/React-Native-Adaptive-Template/blob/main/promoImages/Phone-Landscape-1.png" width="480">
+
+### Smartphone: Landscape (Item details)
+
+<img src="https://github.com/zahoruiko/React-Native-Adaptive-Template/blob/main/promoImages/Phone-Landscape-2.png" width="480">
+<img src="https://github.com/zahoruiko/React-Native-Adaptive-Template/blob/main/promoImages/Phone-Landscape-3.png" width="480">
+
+### Tablet: Portrait (List)
+
+<img src="https://github.com/zahoruiko/React-Native-Adaptive-Template/blob/main/promoImages/Tablet-Portrait-1.png" width="360">
+
+### Tablet: Portrait (Item details)
+
+<img src="https://github.com/zahoruiko/React-Native-Adaptive-Template/blob/main/promoImages/Tablet-Portrait-2.png" width="360">
+
+### Tablet: Landscape (List)
+
+<img src="https://github.com/zahoruiko/React-Native-Adaptive-Template/blob/main/promoImages/Tablet-Landscape-1.png" width="720">
+
+### Tablet: Landscape (Item details)
+
+<img src="https://github.com/zahoruiko/React-Native-Adaptive-Template/blob/main/promoImages/Tablet-Landscape-2.png" width="720">

@@ -63,6 +63,6 @@ yarn start
 
 <img src="https://github.com/zahoruiko/React-Native-Adaptive-Template/blob/main/promoImages/Tablet-Portrait-2.png" width="360">
 
-### Tablet: Landscape (List)
+### Tablet: Landscape (List & Item details)
 
 <img src="https://github.com/zahoruiko/React-Native-Adaptive-Template/blob/main/promoImages/Tablet-Landscape-1.png" width="720">

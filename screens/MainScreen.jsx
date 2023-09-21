@@ -1,8 +1,15 @@
 import React, { useState } from 'react';
-import { Dimensions, SafeAreaView, StyleSheet, View } from 'react-native';
+
+import {
+  Dimensions,
+  SafeAreaView,
+  StyleSheet,
+  View,
+} from 'react-native';
+
 import data from '../assets/data/data.json';
-import UsersList from '../components/UsersList';
 import UserDetail from '../components/UserDetail';
+import UsersList from '../components/UsersList';
 import { isTablet } from '../utils/Device';
 
 const MainScreen = ({ route, navigation }) => {

@@ -12,22 +12,22 @@
 		13B07FBC1A68108700A75B9A /* AppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.mm */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
-		7699B88040F8A987B510C191 /* libPods-Stack-StackTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-Stack-StackTests.a */; };
-		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
-		79539322892E471FA45444F2 /* DotGothic16-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 72F06A2E13384E998CF4388A /* DotGothic16-Regular.ttf */; };
-		61002F62A09D4BE5B7D0D063 /* PlayfairDisplay-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 556213EE52504C84A4FD91D8 /* PlayfairDisplay-Black.ttf */; };
 		17799A1694F4475DBF1DA573 /* PlayfairDisplay-BlackItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 49731EDD5B49463BA2211941 /* PlayfairDisplay-BlackItalic.ttf */; };
-		F64B7F105EC0462FA115E72F /* PlayfairDisplay-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E43FC06355444F8C83DC7D07 /* PlayfairDisplay-Bold.ttf */; };
 		2E1B2899872C44D38F3DA9B6 /* PlayfairDisplay-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 824852546E4643509877515D /* PlayfairDisplay-BoldItalic.ttf */; };
-		6940833F4CA74AC1A0CD4766 /* PlayfairDisplay-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 24276F613EBD408C8F1DCAEB /* PlayfairDisplay-ExtraBold.ttf */; };
-		916234434B2C46038F5F21B8 /* PlayfairDisplay-ExtraBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 223BBE91A7C44E02B8329D4E /* PlayfairDisplay-ExtraBoldItalic.ttf */; };
-		E28FCD6DB0E74EDA8AD8B16D /* PlayfairDisplay-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 59E949BC35C04B139C8F7AC3 /* PlayfairDisplay-Italic.ttf */; };
-		B7723B1F97FC45748924C25F /* PlayfairDisplay-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 195BCF96BB7D49A6AB6A73A8 /* PlayfairDisplay-Medium.ttf */; };
+		61002F62A09D4BE5B7D0D063 /* PlayfairDisplay-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 556213EE52504C84A4FD91D8 /* PlayfairDisplay-Black.ttf */; };
 		61B455DDD80A402194D4CCE9 /* PlayfairDisplay-MediumItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C273D3548BD4444095130BFF /* PlayfairDisplay-MediumItalic.ttf */; };
+		6940833F4CA74AC1A0CD4766 /* PlayfairDisplay-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 24276F613EBD408C8F1DCAEB /* PlayfairDisplay-ExtraBold.ttf */; };
+		7699B88040F8A987B510C191 /* libPods-Stack-StackTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-Stack-StackTests.a */; };
+		79539322892E471FA45444F2 /* DotGothic16-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 72F06A2E13384E998CF4388A /* DotGothic16-Regular.ttf */; };
 		7B528476999A48278B247535 /* PlayfairDisplay-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 800D552CFB66424E8313F80B /* PlayfairDisplay-Regular.ttf */; };
-		EB2FF33264E946ED9BD62439 /* PlayfairDisplay-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F7AB606A107540CBA392488B /* PlayfairDisplay-SemiBold.ttf */; };
-		CCD1BCCACA8446BEB55FBB33 /* PlayfairDisplay-SemiBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A9886F257CB64529A9D4B630 /* PlayfairDisplay-SemiBoldItalic.ttf */; };
+		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		916234434B2C46038F5F21B8 /* PlayfairDisplay-ExtraBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 223BBE91A7C44E02B8329D4E /* PlayfairDisplay-ExtraBoldItalic.ttf */; };
 		AD8B1A418BFB43CEA12FABA0 /* ZenDots-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3EFCC1B2518D4A569A11AB97 /* ZenDots-Regular.ttf */; };
+		B7723B1F97FC45748924C25F /* PlayfairDisplay-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 195BCF96BB7D49A6AB6A73A8 /* PlayfairDisplay-Medium.ttf */; };
+		CCD1BCCACA8446BEB55FBB33 /* PlayfairDisplay-SemiBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A9886F257CB64529A9D4B630 /* PlayfairDisplay-SemiBoldItalic.ttf */; };
+		E28FCD6DB0E74EDA8AD8B16D /* PlayfairDisplay-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 59E949BC35C04B139C8F7AC3 /* PlayfairDisplay-Italic.ttf */; };
+		EB2FF33264E946ED9BD62439 /* PlayfairDisplay-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F7AB606A107540CBA392488B /* PlayfairDisplay-SemiBold.ttf */; };
+		F64B7F105EC0462FA115E72F /* PlayfairDisplay-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E43FC06355444F8C83DC7D07 /* PlayfairDisplay-Bold.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,28 +50,28 @@
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = Stack/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = Stack/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = Stack/main.m; sourceTree = "<group>"; };
+		195BCF96BB7D49A6AB6A73A8 /* PlayfairDisplay-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "PlayfairDisplay-Medium.ttf"; path = "../assets/fonts/PlayfairDisplay-Medium.ttf"; sourceTree = "<group>"; };
 		19F6CBCC0A4E27FBF8BF4A61 /* libPods-Stack-StackTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Stack-StackTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		223BBE91A7C44E02B8329D4E /* PlayfairDisplay-ExtraBoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "PlayfairDisplay-ExtraBoldItalic.ttf"; path = "../assets/fonts/PlayfairDisplay-ExtraBoldItalic.ttf"; sourceTree = "<group>"; };
+		24276F613EBD408C8F1DCAEB /* PlayfairDisplay-ExtraBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "PlayfairDisplay-ExtraBold.ttf"; path = "../assets/fonts/PlayfairDisplay-ExtraBold.ttf"; sourceTree = "<group>"; };
 		3B4392A12AC88292D35C810B /* Pods-Stack.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Stack.debug.xcconfig"; path = "Target Support Files/Pods-Stack/Pods-Stack.debug.xcconfig"; sourceTree = "<group>"; };
+		3EFCC1B2518D4A569A11AB97 /* ZenDots-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "ZenDots-Regular.ttf"; path = "../assets/fonts/ZenDots-Regular.ttf"; sourceTree = "<group>"; };
+		49731EDD5B49463BA2211941 /* PlayfairDisplay-BlackItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "PlayfairDisplay-BlackItalic.ttf"; path = "../assets/fonts/PlayfairDisplay-BlackItalic.ttf"; sourceTree = "<group>"; };
+		556213EE52504C84A4FD91D8 /* PlayfairDisplay-Black.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "PlayfairDisplay-Black.ttf"; path = "../assets/fonts/PlayfairDisplay-Black.ttf"; sourceTree = "<group>"; };
 		5709B34CF0A7D63546082F79 /* Pods-Stack.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Stack.release.xcconfig"; path = "Target Support Files/Pods-Stack/Pods-Stack.release.xcconfig"; sourceTree = "<group>"; };
+		59E949BC35C04B139C8F7AC3 /* PlayfairDisplay-Italic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "PlayfairDisplay-Italic.ttf"; path = "../assets/fonts/PlayfairDisplay-Italic.ttf"; sourceTree = "<group>"; };
 		5B7EB9410499542E8C5724F5 /* Pods-Stack-StackTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Stack-StackTests.debug.xcconfig"; path = "Target Support Files/Pods-Stack-StackTests/Pods-Stack-StackTests.debug.xcconfig"; sourceTree = "<group>"; };
 		5DCACB8F33CDC322A6C60F78 /* libPods-Stack.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Stack.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		72F06A2E13384E998CF4388A /* DotGothic16-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "DotGothic16-Regular.ttf"; path = "../assets/fonts/DotGothic16-Regular.ttf"; sourceTree = "<group>"; };
+		800D552CFB66424E8313F80B /* PlayfairDisplay-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "PlayfairDisplay-Regular.ttf"; path = "../assets/fonts/PlayfairDisplay-Regular.ttf"; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = Stack/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		824852546E4643509877515D /* PlayfairDisplay-BoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "PlayfairDisplay-BoldItalic.ttf"; path = "../assets/fonts/PlayfairDisplay-BoldItalic.ttf"; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-Stack-StackTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Stack-StackTests.release.xcconfig"; path = "Target Support Files/Pods-Stack-StackTests/Pods-Stack-StackTests.release.xcconfig"; sourceTree = "<group>"; };
+		A9886F257CB64529A9D4B630 /* PlayfairDisplay-SemiBoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "PlayfairDisplay-SemiBoldItalic.ttf"; path = "../assets/fonts/PlayfairDisplay-SemiBoldItalic.ttf"; sourceTree = "<group>"; };
+		C273D3548BD4444095130BFF /* PlayfairDisplay-MediumItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "PlayfairDisplay-MediumItalic.ttf"; path = "../assets/fonts/PlayfairDisplay-MediumItalic.ttf"; sourceTree = "<group>"; };
+		E43FC06355444F8C83DC7D07 /* PlayfairDisplay-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "PlayfairDisplay-Bold.ttf"; path = "../assets/fonts/PlayfairDisplay-Bold.ttf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
-		72F06A2E13384E998CF4388A /* DotGothic16-Regular.ttf */ = {isa = PBXFileReference; name = "DotGothic16-Regular.ttf"; path = "../assets/fonts/DotGothic16-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		556213EE52504C84A4FD91D8 /* PlayfairDisplay-Black.ttf */ = {isa = PBXFileReference; name = "PlayfairDisplay-Black.ttf"; path = "../assets/fonts/PlayfairDisplay-Black.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		49731EDD5B49463BA2211941 /* PlayfairDisplay-BlackItalic.ttf */ = {isa = PBXFileReference; name = "PlayfairDisplay-BlackItalic.ttf"; path = "../assets/fonts/PlayfairDisplay-BlackItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		E43FC06355444F8C83DC7D07 /* PlayfairDisplay-Bold.ttf */ = {isa = PBXFileReference; name = "PlayfairDisplay-Bold.ttf"; path = "../assets/fonts/PlayfairDisplay-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		824852546E4643509877515D /* PlayfairDisplay-BoldItalic.ttf */ = {isa = PBXFileReference; name = "PlayfairDisplay-BoldItalic.ttf"; path = "../assets/fonts/PlayfairDisplay-BoldItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		24276F613EBD408C8F1DCAEB /* PlayfairDisplay-ExtraBold.ttf */ = {isa = PBXFileReference; name = "PlayfairDisplay-ExtraBold.ttf"; path = "../assets/fonts/PlayfairDisplay-ExtraBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		223BBE91A7C44E02B8329D4E /* PlayfairDisplay-ExtraBoldItalic.ttf */ = {isa = PBXFileReference; name = "PlayfairDisplay-ExtraBoldItalic.ttf"; path = "../assets/fonts/PlayfairDisplay-ExtraBoldItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		59E949BC35C04B139C8F7AC3 /* PlayfairDisplay-Italic.ttf */ = {isa = PBXFileReference; name = "PlayfairDisplay-Italic.ttf"; path = "../assets/fonts/PlayfairDisplay-Italic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		195BCF96BB7D49A6AB6A73A8 /* PlayfairDisplay-Medium.ttf */ = {isa = PBXFileReference; name = "PlayfairDisplay-Medium.ttf"; path = "../assets/fonts/PlayfairDisplay-Medium.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		C273D3548BD4444095130BFF /* PlayfairDisplay-MediumItalic.ttf */ = {isa = PBXFileReference; name = "PlayfairDisplay-MediumItalic.ttf"; path = "../assets/fonts/PlayfairDisplay-MediumItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		800D552CFB66424E8313F80B /* PlayfairDisplay-Regular.ttf */ = {isa = PBXFileReference; name = "PlayfairDisplay-Regular.ttf"; path = "../assets/fonts/PlayfairDisplay-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		F7AB606A107540CBA392488B /* PlayfairDisplay-SemiBold.ttf */ = {isa = PBXFileReference; name = "PlayfairDisplay-SemiBold.ttf"; path = "../assets/fonts/PlayfairDisplay-SemiBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		A9886F257CB64529A9D4B630 /* PlayfairDisplay-SemiBoldItalic.ttf */ = {isa = PBXFileReference; name = "PlayfairDisplay-SemiBoldItalic.ttf"; path = "../assets/fonts/PlayfairDisplay-SemiBoldItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		3EFCC1B2518D4A569A11AB97 /* ZenDots-Regular.ttf */ = {isa = PBXFileReference; name = "ZenDots-Regular.ttf"; path = "../assets/fonts/ZenDots-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		F7AB606A107540CBA392488B /* PlayfairDisplay-SemiBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "PlayfairDisplay-SemiBold.ttf"; path = "../assets/fonts/PlayfairDisplay-SemiBold.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -134,6 +134,28 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
+		5AEDA2DD61B44437A57F39DC /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				72F06A2E13384E998CF4388A /* DotGothic16-Regular.ttf */,
+				556213EE52504C84A4FD91D8 /* PlayfairDisplay-Black.ttf */,
+				49731EDD5B49463BA2211941 /* PlayfairDisplay-BlackItalic.ttf */,
+				E43FC06355444F8C83DC7D07 /* PlayfairDisplay-Bold.ttf */,
+				824852546E4643509877515D /* PlayfairDisplay-BoldItalic.ttf */,
+				24276F613EBD408C8F1DCAEB /* PlayfairDisplay-ExtraBold.ttf */,
+				223BBE91A7C44E02B8329D4E /* PlayfairDisplay-ExtraBoldItalic.ttf */,
+				59E949BC35C04B139C8F7AC3 /* PlayfairDisplay-Italic.ttf */,
+				195BCF96BB7D49A6AB6A73A8 /* PlayfairDisplay-Medium.ttf */,
+				C273D3548BD4444095130BFF /* PlayfairDisplay-MediumItalic.ttf */,
+				800D552CFB66424E8313F80B /* PlayfairDisplay-Regular.ttf */,
+				F7AB606A107540CBA392488B /* PlayfairDisplay-SemiBold.ttf */,
+				A9886F257CB64529A9D4B630 /* PlayfairDisplay-SemiBoldItalic.ttf */,
+				3EFCC1B2518D4A569A11AB97 /* ZenDots-Regular.ttf */,
+			);
+			name = Resources;
+			path = "";
+			sourceTree = "<group>";
+		};
 		832341AE1AAA6A7D00B99B32 /* Libraries */ = {
 			isa = PBXGroup;
 			children = (
@@ -176,28 +198,6 @@
 			);
 			path = Pods;
 			sourceTree = "<group>";
-		};
-		5AEDA2DD61B44437A57F39DC /* Resources */ = {
-			isa = "PBXGroup";
-			children = (
-				72F06A2E13384E998CF4388A /* DotGothic16-Regular.ttf */,
-				556213EE52504C84A4FD91D8 /* PlayfairDisplay-Black.ttf */,
-				49731EDD5B49463BA2211941 /* PlayfairDisplay-BlackItalic.ttf */,
-				E43FC06355444F8C83DC7D07 /* PlayfairDisplay-Bold.ttf */,
-				824852546E4643509877515D /* PlayfairDisplay-BoldItalic.ttf */,
-				24276F613EBD408C8F1DCAEB /* PlayfairDisplay-ExtraBold.ttf */,
-				223BBE91A7C44E02B8329D4E /* PlayfairDisplay-ExtraBoldItalic.ttf */,
-				59E949BC35C04B139C8F7AC3 /* PlayfairDisplay-Italic.ttf */,
-				195BCF96BB7D49A6AB6A73A8 /* PlayfairDisplay-Medium.ttf */,
-				C273D3548BD4444095130BFF /* PlayfairDisplay-MediumItalic.ttf */,
-				800D552CFB66424E8313F80B /* PlayfairDisplay-Regular.ttf */,
-				F7AB606A107540CBA392488B /* PlayfairDisplay-SemiBold.ttf */,
-				A9886F257CB64529A9D4B630 /* PlayfairDisplay-SemiBoldItalic.ttf */,
-				3EFCC1B2518D4A569A11AB97 /* ZenDots-Regular.ttf */,
-			);
-			name = Resources;
-			sourceTree = "<group>";
-			path = "";
 		};
 /* End PBXGroup section */
 

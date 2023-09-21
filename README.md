@@ -11,9 +11,16 @@ Used libraries: React Native Navigation, React Native Screens, React Native Pape
 
 ```npm install```
 
-### Assets installation (custom text font):
+## Install assets (custom text font):
 
 ```npx react-native-asset```
+
+## Install for iOS:
+
+```
+cd ios
+pod install
+```
 
 ## Start
 

@@ -1,5 +1,12 @@
 import React from 'react';
-import { Image, Text, TouchableOpacity, View } from 'react-native';
+
+import {
+  Image,
+  Text,
+  TouchableOpacity,
+  View,
+} from 'react-native';
+
 import { styles } from './styles';
 
 export const UsersListItem = ({
@@ -11,7 +18,12 @@ export const UsersListItem = ({
 }) => (
   <TouchableOpacity
     onPress={onPress}
-    style={[styles.item, styles.wrapperElevation, { backgroundColor }, { borderColor }]}>
+    style={[
+      styles.item,
+      styles.wrapperElevation,
+      { backgroundColor },
+      { borderColor },
+    ]}>
     <View style={styles.imageElevation}>
       <Image source={{ uri: `${item.image}` }} style={[styles.img]} />
     </View>

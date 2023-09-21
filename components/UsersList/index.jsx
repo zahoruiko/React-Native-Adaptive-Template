@@ -1,23 +1,17 @@
-import React, { useState } from 'react';
+import React from 'react';
+
 import { FlatList } from 'react-native';
+
+import { isTablet } from '../../utils/Device';
 import { UsersListItem } from '../UsersListItem';
 import styles from './styles';
-import { isTablet } from '../../utils/Device';
 
-const UsersList = ({
-  data,
-  itemId,
-  setItemId,
-  isLandscape,
-  route,
-  navigation,
-}) => {
+const UsersList = ({ data, itemId, setItemId, isLandscape, navigation }) => {
   const handleOnItemPress = id => {
     setItemId(id);
-
     if (!isTablet() || (isTablet() && !isLandscape)) {
       navigation.navigate('DetailsScreen', {
-        itemId: itemId,
+        itemId: id,
       });
     }
   };
@@ -26,7 +20,6 @@ const UsersList = ({
     const backgroundColor = item.id === itemId ? 'white' : 'white';
     const color = item.id === itemId ? 'black' : 'gray';
     const borderColor = item.id === itemId ? 'gray' : 'lightgray';
-
     return (
       <UsersListItem
         item={item}

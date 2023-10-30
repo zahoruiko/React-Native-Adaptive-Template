@@ -1,6 +1,6 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
-# An example of implementing adaptive information output in a React Native application
+# An implementation of adaptive information output on various types of devices (tablets and smartphones) in portrait and landscape orientation.
 
 An example of implementing adaptive information display on smartphones and tablets in portrait and landscape orientation modes.   
 Used libraries: React Native Navigation, React Native Screens, React Native Paper and others.
